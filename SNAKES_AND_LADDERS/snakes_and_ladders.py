@@ -12,7 +12,7 @@ import os
 import random
 
 
-# Creating necessary functions to be used throughout the code generator.
+# Creating necessary functions to be used throughout the game.
 
 
 def value_in_dict(dictionary: dict, value: object) -> bool:
